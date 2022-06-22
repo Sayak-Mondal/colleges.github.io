@@ -1,0 +1,44 @@
+body{
+	background: linear-gradient(to bottom, #ffb3cc ,#ffe6ff);
+	/*text-transform: uppercase;*/
+	text-align: justify;
+	font-size: 1.105em;
+	font-family: 'Acme', sans-serif;
+}
+
+.talented {
+	color: #310345;
+	text-align: center;
+	text-decoration: underline;
+	background: radial-gradient(circle ,#ed395d,#f25eff ,pink 100%)
+    }
+
+a :hover {
+	color : #cc0000;
+}
+
+
+.college_name {
+	color: #800080;
+	text-align: center;
+	text-decoration: underline;
+	background: radial-gradient(line-height ,#ed395d,#f25eff ,pink 100%)
+    }
+
+
+.ball{
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+
+    }
+
+.sayak {
+	color: black;
+	text-align: center;
+	background: radial-gradient(circle ,#ed395d,#f25eff ,pink 100%)
+
+    }
+
+.italics{
+	font-style : italic;
